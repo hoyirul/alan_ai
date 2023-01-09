@@ -62,7 +62,7 @@ class _MyAppState extends State<MyApp> {
         )
       );
     }else{
-      return const SizedBox();
+      return const SizedBox(height: 10,);
     }
   }
 }
